@@ -6,8 +6,8 @@
 
 ### **DEMO**
 **NOTE: MIGHT NOT WORK PROPERLY IN DEMO**
-![Screenshot 2024-07-15 031151](https://github.com/user-attachments/assets/7d5fbf65-088d-47d6-bd11-2e3c08e6a41a)
-[CLICK FOR DEMO ](https://yadavnikhil03.github.io/Password_evaluation_tool/).
+![xyz-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e8941228-ab97-4f1d-b12c-5354dc0ab716)
+[CLICK FOR DEMO ](https://yadavnikhil03.github.io/Password_evaluation_tool/)
 
 ### **Requirements** 
  To run the Password Evaluation Tool, ensure you have the following:
