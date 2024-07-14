@@ -7,6 +7,7 @@
 ### **DEMO**
 **NOTE: MIGHT NOT WORK PROPERLY IN DEMO**
 ![xyz-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e8941228-ab97-4f1d-b12c-5354dc0ab716)
+
 [CLICK FOR DEMO ](https://yadavnikhil03.github.io/Password_evaluation_tool/)
 
 ### **Requirements** 
