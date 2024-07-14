@@ -6,7 +6,8 @@
 
 ### **DEMO**
 **NOTE: EVERY FEATURE WILL NOT WORK IN DEMO**
-[clicking here](https://yadavnikhil03.github.io/Password_evaluation_tool/).
+
+[click for DEMO ](https://yadavnikhil03.github.io/Password_evaluation_tool/).
 
 ### **Requirements** 
  To run the Password Evaluation Tool, ensure you have the following:
