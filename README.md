@@ -5,7 +5,8 @@
 - **Crack Time Estimation**: Predicts how long it would take for an attacker to crack the password using brute force or dictionary-based attacks.
 
 ### **DEMO**
-[You can Test this Project's Working by clicking here](https://yadavnikhil03.github.io/Password_evaluation_tool/).
+**NOTE: EVERY FEATURE WILL NOT WORK IN DEMO**
+[clicking here](https://yadavnikhil03.github.io/Password_evaluation_tool/).
 
 ### **Requirements** 
  To run the Password Evaluation Tool, ensure you have the following:
