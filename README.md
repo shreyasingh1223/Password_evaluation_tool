@@ -59,4 +59,4 @@ Contributions are welcome and encouraged! Here's how you can contribute:
 
 ### **Support**
 
-For inquiries, troubleshooting, and support, please open an issue on [GitHub](https://github.com/yadavnikhil03/Password_strength_checker/issues) or contact us via [Telegram](https://t.me/whyred_gamer). Your feedback is invaluable in enhancing the project's effectiveness and reliability.
+For inquiries, troubleshooting, and support, please open an issue on [GitHub](https://github.com/yadavnikhil03/Password_evaluation_tool/issues) or contact us via [Telegram](https://t.me/whyred_gamer). Your feedback is invaluable in enhancing the project's effectiveness and reliability.
