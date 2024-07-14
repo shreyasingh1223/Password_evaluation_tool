@@ -1,8 +1,8 @@
 ### **Features**
 
-- **Real-time Strength Evaluation**: Assess the strength of a password immediately after it is entered.
-- **Password Properties Analysis**: Provides a detailed breakdown of the password's composition and structure, helping users understand strengths and weaknesses.
-- **Crack Time Estimation**: Predicts how long it would take for an attacker to crack the password using brute force or dictionary-based attacks.
+- **Real-time Password Strength Evaluation**: Determine if a password is weak, medium, or strong based on its length and complexity.
+- **assword Composition Analysis**: Provides a detailed breakdown of the password's composition and structure, helping users understand strengths and weaknesses.
+- **Estimated Crack Time**: Predicts how long it would take for an attacker to crack the password using brute force or dictionary-based attacks.
 
 ### **DEMO**
 **NOTE: MIGHT NOT WORK PROPERLY IN DEMO**
@@ -11,30 +11,25 @@
 ### **Requirements** 
  To run the Password Evaluation Tool, ensure you have the following:
 
-1. Python 3.x
-2. Flask
-3. WTForms
+1. Python v3.x
 
 Install the required things using:
 
-1. [Python](https://www.python.org/downloads/) 
-2. Flask: Flask is a web framework for Python. Install it using pip:
-   ```bash
-   pip install Flask
-3. WTForms: WTForms is a library for building web forms in Flask. Install it using pip:
-   ```bash
-   pip install WTForms
-4. Install Dependencies: Install the required libraries using:
+1. [Python v3.x direct link](https://www.python.org/downloads/)
+
+2. Install Dependencies: Install the required libraries using:
    ```bash
      pip install -r requirements.txt
    ```
 
 ### **Usage**
-To utilize the Password Strength Checker, follow these steps:
+To use the Password evaluation tool, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
     git clone https://github.com/yadavnikhil03/Password_evaluation_tool.git
+
+2. **Navigate the Directory:**
   ```bash
     cd Password_evaluation_tool
   ```
