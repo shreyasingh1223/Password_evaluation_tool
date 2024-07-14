@@ -6,6 +6,7 @@
 
 ### **DEMO**
 **NOTE: MIGHT NOT WORK PROPERLY IN DEMO**
+<img align="right" alt="GIF" src="https://ibb.co/ZY1Vfww" width="500"/>
 [CLICK FOR DEMO ](https://yadavnikhil03.github.io/Password_evaluation_tool/).
 
 ### **Requirements** 
