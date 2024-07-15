@@ -17,7 +17,7 @@
 
 Install the required things using:
 
-1. [Python v3.x direct link](https://www.python.org/downloads/)
+1. [Python v3.x direct link](https://www.python.org/downloads/) Ignore if already installed 
 
 2. Install Dependencies: Install the required libraries using:
    ```bash
